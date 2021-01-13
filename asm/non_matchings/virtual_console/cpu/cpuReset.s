@@ -1,4 +1,4 @@
-glabel func_8003C84C
+glabel cpuReset
 /* 8003C84C 00037E0C  94 21 FF F0 */	stwu r1, -0x10(r1)
 /* 8003C850 00037E10  7C 08 02 A6 */	mflr r0
 /* 8003C854 00037E14  38 E0 00 00 */	li r7, 0

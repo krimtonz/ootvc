@@ -139,7 +139,7 @@ glabel lbl_80171ECC
 glabel lbl_80171EFC
 	.incbin "00000001.app", 0x16DFFC, 0x3C
 
-glabel lbl_80171F38
+glabel gClassCPU
 	.incbin "00000001.app", 0x16E038, 0x10
 
 glabel lbl_80171F48
